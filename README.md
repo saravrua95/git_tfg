@@ -10,7 +10,7 @@ En este proyecto se va a realizar un modelado realista de uno de los entornos de
 
 <b>Palabras clave:</b>
 
-Modelado realista, Universidad de Alicate, Biblioteca General, Blender, Substance Painter, Unity, HDRP
+Modelado realista, Universidad de Alicante, Biblioteca General, Blender, Substance Painter, Unity, HDRP
 
 
 
